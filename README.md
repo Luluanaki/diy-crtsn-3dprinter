@@ -1,29 +1,15 @@
 # 🛠️ DIY 3D Printer Build
 
-This repository documents my senior project: building a fully functional Cartesian-style FDM 3D printer from scratch. The goal was to gain a deep understanding of 3D printer hardware and firmware by constructing and tuning a custom machine using off-the-shelf components and open-source tools.
+This repository documents my senior project for my B.S. in Computer Science: building a fully functional Cartesian-style FDM 3D printer from scratch. The goal was to gain a deep understanding of 3D printer hardware and firmware by constructing and tuning a custom machine using off-the-shelf components and open-source tools.
 
 ---
 
 ## 📷 Build Photos
 
-> Click each section to expand for build-stage images.
+Here are a few snapshots — [view the full photo gallery](gallery.md) for more.
 
-### 🔧 Frame Assembly
-
-![Frame Build](images/frame.jpg)
-
-### ⚙️ Motors, Belts & Rails
-
-![Motion System](images/motion-system.jpg)
-
-### 🔌 Electronics & Wiring
-
-![Wiring](images/wiring.jpg)
-
-### 🖨️ Final Build
-
-![Final Build](images/final-build.jpg)
-
+<img src="images/final.jpg" width="400" />
+<img src="images/frame.jpg" width="400" />
 ---
 
 ## 🧰 Materials Used
@@ -73,7 +59,7 @@ These resources were instrumental during the planning and building process:
 This repository is based on my final capstone project for my B.S. in Computer Science.  
 You can read the full documentation here:
 
-[📄 Download: Senior Project Report (PDF)](docs/final-report.pdf)
+[📄 Download: Senior Project Report (PDF)](docs/Final%20Written%20Report.pdf)
 
 The report covers:
 - Project overview and objectives
@@ -81,3 +67,29 @@ The report covers:
 - Materials selection and sourcing
 - Firmware configuration and testing results
 - Lessons learned and future improvements
+
+---
+
+# 🖼️ 3D Printer Build Photo Gallery
+
+> Click each section to expand for build-stage images.
+
+## Frame Assembly
+
+![Frame Pieces](images/frame-assembly.jpg)
+![Bolting Frame](images/frame-bolt.jpg)
+
+## Motion System
+
+![Rails](images/rails.jpg)
+![Motors](images/motors.jpg)
+
+## Electronics & Wiring
+
+![Wiring](images/wiring.jpg)
+![Board](images/controller-board.jpg)
+
+### 🖨️ Final Build
+
+![Final Build](images/final-build.jpg)
+
