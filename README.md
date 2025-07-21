@@ -8,8 +8,12 @@ This repository documents my senior project for my B.S. in Computer Science: bui
 
 Here are a few snapshots — [view the full photo gallery](gallery.md) for more.
 
-<img src="images/final.jpg" width="400" />
-<img src="images/frame.jpg" width="400" />
+<p float="left">
+  <img src="https://github.com/Luluanaki/diy-crtsn-3dprinter/blob/main/images/The%20Frame.jpg?raw=true" width="32%" />
+  <img src="https://github.com/Luluanaki/diy-crtsn-3dprinter/blob/main/images/462551408_1686445295249764_3722107572912922706_n.jpg?raw=true" width="32%" />
+  <img src="https://github.com/Luluanaki/diy-crtsn-3dprinter/blob/main/images/462543248_2284007145306717_3057766440872295951_n.jpg?raw=true" width="32%" />
+</p>
+
 ---
 
 ## 🧰 Materials Used
@@ -70,26 +74,5 @@ The report covers:
 
 ---
 
-# 🖼️ 3D Printer Build Photo Gallery
 
-> Click each section to expand for build-stage images.
-
-## Frame Assembly
-
-![Frame Pieces](images/frame-assembly.jpg)
-![Bolting Frame](images/frame-bolt.jpg)
-
-## Motion System
-
-![Rails](images/rails.jpg)
-![Motors](images/motors.jpg)
-
-## Electronics & Wiring
-
-![Wiring](images/wiring.jpg)
-![Board](images/controller-board.jpg)
-
-### 🖨️ Final Build
-
-![Final Build](images/final-build.jpg)
 
